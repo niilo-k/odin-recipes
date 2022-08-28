@@ -1,3 +1,25 @@
 body {
     font-family: "Helvetica-Neue", sans-serif;
 }
+
+.title {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+img.title {
+    width: 50%
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin: 10px 0;
+}
+
+a {
+    color: black
+}
